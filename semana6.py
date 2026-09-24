@@ -14,3 +14,12 @@ print("Altura:", altura)
 print("carrera:", carrera)
 print("semestre:", semestre)
 print(SISTEMA FUERA DE SERVICIO)
+bhfvsbvklsnb
+jdbvf
+ggggfxgvd
+sddfbghbtyh
+h
+hnhnhhn
+hhnn
+nonlocaln
+nhnjhhhn
