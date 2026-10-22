@@ -11,10 +11,10 @@ jobs:
     
     runs-on: ubuntu-lastest
 
-    seps:
+    steps:
     # PASO 1
     # descarga dentro del runner el contenido del repositorio
-    - name:obtener repositorio
+    - name: obtener repositorio
       uses: actions/checkout@v7
 
     # PASO 2
@@ -46,6 +46,7 @@ jobs:
         python programa.py > salida.txt
         grep "TOTAL:24" salida.txt
         
+
 
 
 
